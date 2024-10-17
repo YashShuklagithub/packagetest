@@ -1,0 +1,4 @@
+include README.md
+recursive-include helloapp/static *
+recursive-include helloapp/templates *
+
